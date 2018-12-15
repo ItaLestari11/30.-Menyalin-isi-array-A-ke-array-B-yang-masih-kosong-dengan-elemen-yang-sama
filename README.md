@@ -1,0 +1,1 @@
+# 30.-Menyalin-isi-array-A-ke-array-B-yang-masih-kosong-dengan-elemen-yang-sama
